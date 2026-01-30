@@ -8,5 +8,8 @@ public class Generica {
 	// metodos getters y setters
 	
 	// metodos propios de la clase
+	
+	
+	////
 
 }
